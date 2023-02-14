@@ -1,5 +1,5 @@
 .env
-
+/client
 /server/node_modules
 /client/node_modules
 /server/.prettierrc
